@@ -1,0 +1,53 @@
+#UE4 folders
+
+DerivedDataCache
+Intermediate
+Saved
+
+#Custom folders
+
+Content/WhiteRoom
+
+
+#Visual Studio
+
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+#Custom file formats
+
+*.md
+
+#Image
+
+*.tiff
+*.gif
+*.jpg
+*.png
+*.tga
+*.bmp
+*.svg
+*.cgm
+*.jpeg
+*.ps
+
+
+#Video (only avi is not suported properly)
+
+*.avi 
+
+#Models
+
+*.fbx
+*.obj
+*.3ds
+*.dae
+*.stl
